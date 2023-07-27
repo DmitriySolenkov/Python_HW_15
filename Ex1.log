@@ -1,0 +1,30 @@
+INFO:root:2023-07-27 13:10:08.114119: Your date: 2023-01-01
+ERROR:root:2023-07-27 13:10:14.302582: WrongInputException raised!
+ERROR:root:2023-07-27 13:11:09.678723: WrongNumException raised!
+INFO:root:2023-07-27 13:11:34.717618: Your date: 2023-03-20
+INFO:root:2023-07-27 13:13:43.685783: Your date: 2023-03-20
+INFO:root:2023-07-27 13:13:59.461543: Your date: 2023-05-15
+INFO:root:2023-07-27 13:14:26.996286: Your date: 2023-05-15
+ERROR:root:2023-07-27 13:25:00.080446: WrongInputException raised!
+ERROR:root:2023-07-27 13:25:51.385699: WrongInputException raised!
+ERROR:root:2023-07-27 13:25:58.154992: WrongInputException raised!
+ERROR:root:2023-07-27 13:26:39.755809: WrongInputException raised!
+INFO:root:2023-07-27 13:26:43.186920: Your date: 2023-04-14
+ERROR:root:2023-07-27 13:38:48.055945: WrongInputException raised!
+INFO:root:2023-07-27 13:40:45.545109: Your date: 2023-04-14
+INFO:root:2023-07-27 13:41:27.879572: Your date: 2023-02-11
+INFO:root:2023-07-27 13:41:49.031881: Your date: 2023-06-24
+ERROR:root:2023-07-27 14:01:50.176225: WrongInputException raised!
+INFO:root:2023-07-27 14:01:54.132633: Your date: 2023-06-24
+INFO:root:2023-07-27 14:04:37.971038: Your date: 2023-04-14
+INFO:root:2023-07-27 14:07:13.064099: Your date: 2023-07-14
+INFO:root:2023-07-27 14:08:52.807529: Your date: 2023-07-14
+ERROR:root:2023-07-27 14:10:10.761016: WrongInputException raised!
+INFO:root:2023-07-27 14:10:15.800343: Your date: 2023-07-10
+INFO:root:2023-07-27 14:11:19.901347: Your date: 2023-07-08
+INFO:root:2023-07-27 14:13:07.780117: Your date: 2023-07-20
+ERROR:root:2023-07-27 14:13:35.379093: WrongInputException raised!
+INFO:root:2023-07-27 14:13:52.691036: Your date: 2023-07-06
+INFO:root:2023-07-27 14:16:02.588842: Your date: 2023-07-06
+INFO:root:2023-07-27 14:16:05.737408: Your date: 2023-07-06
+INFO:root:2023-07-27 14:20:01.645366: Your date: 2023-07-06

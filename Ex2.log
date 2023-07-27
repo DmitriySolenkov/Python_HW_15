@@ -1,0 +1,10 @@
+INFO:root:2023-07-27 14:44:04.419305: Prime
+ERROR:root:2023-07-27 14:44:07.936814: NotNumberException raised!
+ERROR:root:2023-07-27 14:44:10.975943: NotInBordersException raised!
+INFO:root:2023-07-27 14:44:14.314288: Complex
+INFO:root:2023-07-27 14:45:50.103507: Prime
+ERROR:root:2023-07-27 14:45:53.549901: NotNumberException raised!
+INFO:root:2023-07-27 14:45:56.932022: Complex
+INFO:root:2023-07-27 14:46:00.905685: Prime
+ERROR:root:2023-07-27 14:46:06.090940: NotNumberException raised!
+CRITICAL:root:2023-07-27 14:52:12.266353: Empty input!

@@ -1,0 +1,7 @@
+ERROR:root:2023-07-27 14:57:23.334263: Empty input!
+ERROR:root:2023-07-27 14:59:14.535501: WrongAmountOfArguments raised!
+INFO:root:2023-07-27 14:59:17.851132: Isosceles
+INFO:root:2023-07-27 14:59:19.484192: Isosceles
+INFO:root:2023-07-27 14:59:22.496351: Equilateral
+ERROR:root:2023-07-27 14:59:25.947445: TriangleSideException raised!
+ERROR:root:2023-07-27 14:59:35.728121: NotPositiveNumberException raised!
